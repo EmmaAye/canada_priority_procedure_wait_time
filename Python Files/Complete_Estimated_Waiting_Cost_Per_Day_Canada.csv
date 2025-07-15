@@ -1,0 +1,141 @@
+﻿Indicator,Province,Cost Per Day (CAD)
+Hip Replacement,British Columbia,10000
+Hip Replacement,Alberta,11000
+Hip Replacement,Saskatchewan,9500
+Hip Replacement,Manitoba,9000
+Hip Replacement,Ontario,8500
+Hip Replacement,Quebec,8000
+Hip Replacement,Newfoundland and Labrador,8700
+Hip Replacement,Nova Scotia,8800
+Hip Replacement,New Brunswick,8600
+Hip Replacement,Prince Edward Island,8900
+Knee Replacement,British Columbia,10000
+Knee Replacement,Alberta,11000
+Knee Replacement,Saskatchewan,9500
+Knee Replacement,Manitoba,9000
+Knee Replacement,Ontario,8500
+Knee Replacement,Quebec,8000
+Knee Replacement,Newfoundland and Labrador,8700
+Knee Replacement,Nova Scotia,8800
+Knee Replacement,New Brunswick,8600
+Knee Replacement,Prince Edward Island,8900
+Hip Fracture Repair,British Columbia,8000
+Hip Fracture Repair,Alberta,8800
+Hip Fracture Repair,Saskatchewan,7600
+Hip Fracture Repair,Manitoba,7200
+Hip Fracture Repair,Ontario,6800
+Hip Fracture Repair,Quebec,6400
+Hip Fracture Repair,Newfoundland and Labrador,6960
+Hip Fracture Repair,Nova Scotia,7040
+Hip Fracture Repair,New Brunswick,6880
+Hip Fracture Repair,Prince Edward Island,7120
+Hip Fracture Repair/Emergency and Inpatient,British Columbia,7500
+Hip Fracture Repair/Emergency and Inpatient,Alberta,8250
+Hip Fracture Repair/Emergency and Inpatient,Saskatchewan,7125
+Hip Fracture Repair/Emergency and Inpatient,Manitoba,6750
+Hip Fracture Repair/Emergency and Inpatient,Ontario,6375
+Hip Fracture Repair/Emergency and Inpatient,Quebec,6000
+Hip Fracture Repair/Emergency and Inpatient,Newfoundland and Labrador,6525
+Hip Fracture Repair/Emergency and Inpatient,Nova Scotia,6600
+Hip Fracture Repair/Emergency and Inpatient,New Brunswick,6450
+Hip Fracture Repair/Emergency and Inpatient,Prince Edward Island,6675
+Cataract surgery,British Columbia,1000
+Cataract surgery,Alberta,1100
+Cataract surgery,Saskatchewan,950
+Cataract surgery,Manitoba,900
+Cataract surgery,Ontario,850
+Cataract surgery,Quebec,800
+Cataract surgery,Newfoundland and Labrador,870
+Cataract surgery,Nova Scotia,880
+Cataract surgery,New Brunswick,860
+Cataract surgery,Prince Edward Island,890
+Radiation Therapy,British Columbia,5000
+Radiation Therapy,Alberta,5500
+Radiation Therapy,Saskatchewan,4750
+Radiation Therapy,Manitoba,4500
+Radiation Therapy,Ontario,4250
+Radiation Therapy,Quebec,4000
+Radiation Therapy,Newfoundland and Labrador,4350
+Radiation Therapy,Nova Scotia,4400
+Radiation Therapy,New Brunswick,4300
+Radiation Therapy,Prince Edward Island,4450
+CABG,British Columbia,9000
+CABG,Alberta,9900
+CABG,Saskatchewan,8550
+CABG,Manitoba,8100
+CABG,Ontario,7650
+CABG,Quebec,7200
+CABG,Newfoundland and Labrador,7830
+CABG,Nova Scotia,7920
+CABG,New Brunswick,7740
+CABG,Prince Edward Island,8010
+Colorectal Cancer Surgery,British Columbia,4000
+Colorectal Cancer Surgery,Alberta,4400
+Colorectal Cancer Surgery,Saskatchewan,3800
+Colorectal Cancer Surgery,Manitoba,3600
+Colorectal Cancer Surgery,Ontario,3400
+Colorectal Cancer Surgery,Quebec,3200
+Colorectal Cancer Surgery,Newfoundland and Labrador,3480
+Colorectal Cancer Surgery,Nova Scotia,3520
+Colorectal Cancer Surgery,New Brunswick,3440
+Colorectal Cancer Surgery,Prince Edward Island,3560
+Bladder Cancer Surgery,British Columbia,3500
+Bladder Cancer Surgery,Alberta,3850
+Bladder Cancer Surgery,Saskatchewan,3325
+Bladder Cancer Surgery,Manitoba,3150
+Bladder Cancer Surgery,Ontario,2975
+Bladder Cancer Surgery,Quebec,2800
+Bladder Cancer Surgery,Newfoundland and Labrador,3045
+Bladder Cancer Surgery,Nova Scotia,3080
+Bladder Cancer Surgery,New Brunswick,3010
+Bladder Cancer Surgery,Prince Edward Island,3115
+Breast Cancer Surgery,British Columbia,3000
+Breast Cancer Surgery,Alberta,3300
+Breast Cancer Surgery,Saskatchewan,2850
+Breast Cancer Surgery,Manitoba,2700
+Breast Cancer Surgery,Ontario,2550
+Breast Cancer Surgery,Quebec,2400
+Breast Cancer Surgery,Newfoundland and Labrador,2610
+Breast Cancer Surgery,Nova Scotia,2640
+Breast Cancer Surgery,New Brunswick,2580
+Breast Cancer Surgery,Prince Edward Island,2670
+Prostate Cancer Surgery,British Columbia,3000
+Prostate Cancer Surgery,Alberta,3300
+Prostate Cancer Surgery,Saskatchewan,2850
+Prostate Cancer Surgery,Manitoba,2700
+Prostate Cancer Surgery,Ontario,2550
+Prostate Cancer Surgery,Quebec,2400
+Prostate Cancer Surgery,Newfoundland and Labrador,2610
+Prostate Cancer Surgery,Nova Scotia,2640
+Prostate Cancer Surgery,New Brunswick,2580
+Prostate Cancer Surgery,Prince Edward Island,2670
+Lung Cancer Surgery,British Columbia,4000
+Lung Cancer Surgery,Alberta,4400
+Lung Cancer Surgery,Saskatchewan,3800
+Lung Cancer Surgery,Manitoba,3600
+Lung Cancer Surgery,Ontario,3400
+Lung Cancer Surgery,Quebec,3200
+Lung Cancer Surgery,Newfoundland and Labrador,3480
+Lung Cancer Surgery,Nova Scotia,3520
+Lung Cancer Surgery,New Brunswick,3440
+Lung Cancer Surgery,Prince Edward Island,3560
+CT Scan,British Columbia,1500
+CT Scan,Alberta,1650
+CT Scan,Saskatchewan,1425
+CT Scan,Manitoba,1350
+CT Scan,Ontario,1275
+CT Scan,Quebec,1200
+CT Scan,Newfoundland and Labrador,1305
+CT Scan,Nova Scotia,1320
+CT Scan,New Brunswick,1290
+CT Scan,Prince Edward Island,1335
+MRI Scan,British Columbia,5000
+MRI Scan,Alberta,5500
+MRI Scan,Saskatchewan,4750
+MRI Scan,Manitoba,4500
+MRI Scan,Ontario,4250
+MRI Scan,Quebec,4000
+MRI Scan,Newfoundland and Labrador,4350
+MRI Scan,Nova Scotia,4400
+MRI Scan,New Brunswick,4300
+MRI Scan,Prince Edward Island,4450
