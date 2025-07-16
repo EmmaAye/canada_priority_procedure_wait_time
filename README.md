@@ -47,7 +47,7 @@ Procedures like knee replacement and hip replacement consistently face delays be
 
 Benchmark completion rates are closely tied to procedure type and regional factors.
 
-📌 ## Deliverables
+## 📌 Deliverables
 
 Hypothesis testing summary table and model results
 
