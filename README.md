@@ -1,7 +1,8 @@
-Canada-Wide Priority Procedure Wait Time Analysis
+**Canada-Wide Priority Procedure Wait Time Analysis**
+
 This project analyzes the wait times for six priority medical procedures across multiple provinces in Canada. The goal is to uncover disparities, identify contributing factors to long wait times, and recommend actionable insights through data analytics, visualization, and statistical modeling.
 
-📌 Objective
+📌**Objective**
 Understand the distribution of wait times for priority procedures across Canadian provinces.
 
 Formulate and test hypotheses on interprovincial disparities and the effect of surgery type and region.
@@ -10,12 +11,12 @@ Model factors contributing to long wait times using statistical techniques.
 
 Visualize insights to inform policymakers and healthcare administrators.
 
-🔍 Data Source
+🔍 **Data Source**
 Data was collected from the Canadian Institute for Health Information (CIHI).
 
 The dataset includes metrics like number of procedures, number completed within benchmark time, and median wait times by province and procedure type (hip replacement, knee replacement, etc.).
 
-🧪 Methodology
+🧪 **Methodology**
 Hypothesis Formulation: Defined 5 research questions and corresponding null/alternative hypotheses.
 
 Data Cleaning: Removed missing and zero entries, transformed variables for analysis.
@@ -26,7 +27,7 @@ Statistical Testing: Used t-tests and ANOVA to evaluate interprovincial differen
 
 Modeling: Built predictive models using linear regression to assess features impacting long wait times.
 
-📊 Tools Used
+📊 **Tools Used**
 Python (Pandas, NumPy, SciPy, StatsModels, XGBoost, Random Forest)
 
 Tableau and Python for dashboard visualization
@@ -35,14 +36,14 @@ Excel for initial exploration and summary
 
 Jupyter Notebook
 
-📈 Key Findings
+📈 **Key Findings**
 Significant disparities exist across provinces, with Ontario and Nova Scotia frequently exhibiting longer wait times.
 
 Procedures like knee replacement and hip replacement consistently face delays beyond benchmark targets.
 
 Benchmark completion rates are closely tied to procedure type and regional factors.
 
-📌 Deliverables
+📌 **Deliverables**
 Hypothesis testing summary table and model results
 
 Power BI interactive dashboard
@@ -58,7 +59,7 @@ Final report: DAMO_611_Project_Part3_Report.pdf
 🎯 Future Work
 
 
-👥 Team Members
+👥 **Team Members**
 Naw Mu Aye
 Aye, Thanda
 Bui, Ngoc Mai Khanh
