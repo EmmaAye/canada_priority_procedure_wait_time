@@ -60,7 +60,7 @@ Final report: DAMO_611_Project_Part3_Report.pdf
 
 
 👥 **Team Members**
-Naw Mu Aye
-Thanda Aye
-Bui, Ngoc Mai Khanh
-Pawar, Pratiksha Ravindra
+<br>Naw Mu Aye
+<br>Thanda Aye
+<br>Bui, Ngoc Mai Khanh
+<br>Pawar, Pratiksha Ravindra
